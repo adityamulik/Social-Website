@@ -9,3 +9,7 @@ secrets.py
 
 # Database
 db.sqlite3
+**/migrations/*
+
+# Media Files
+media
