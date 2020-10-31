@@ -3,3 +3,9 @@ venv
 
 # Secrets/Credentials
 secrets.py
+
+# Cached Files
+*.pyc
+
+# Database
+db.sqlite3
