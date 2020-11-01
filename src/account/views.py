@@ -3,7 +3,6 @@ from django.http import HttpResponse
 from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from .forms import LoginForm, UserRegisterationForm, UserEditForm, ProfileEditForm
-from .models import Profile
 
 
 def register(request):

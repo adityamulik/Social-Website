@@ -1,10 +1,11 @@
 # Virtual Environment
 venv
 
-# Secrets/Credentials
+# Secrets/Credentials/Config
 secrets.py
 cert.crt 
 cert.key 
+settings.json
 
 # Cached Files
 *.pyc
