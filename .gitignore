@@ -3,6 +3,8 @@ venv
 
 # Secrets/Credentials
 secrets.py
+cert.crt 
+cert.key 
 
 # Cached Files
 *.pyc
