@@ -12,6 +12,9 @@ A Social Website created using Django Web Framework.
 
 ### Content Sharing on the website:
 * Allow users to bookmark and share images that they find on other websites to share on our site. 
+* AJAX function to dynamically update like/dislike of images without page refresh.
+* JavaScript Bookmarklet function used to detect jpg/jpeg images and using the bookmark to download it to the application.
+* Pagination for upto 8 images per page and on scroll, javascript function to show more images.
 
 ## Author:
 **Aditya Mulik**
